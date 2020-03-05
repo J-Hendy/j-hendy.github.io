@@ -1,2 +1,2 @@
 # j-hendy.github.io
-hendyco-website
+hendy.co-website
